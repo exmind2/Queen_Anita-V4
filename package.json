@@ -53,6 +53,6 @@
   },
   "keywords": ["WhatsApp", "bot", "Baileys", "multi-device"],
   "engines": {
-    "node": "20.X"
+    "node": "22.X"
   }
 }
